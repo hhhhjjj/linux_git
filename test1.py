@@ -1,1 +1,2 @@
-print("hellp")
+import sys
+print(sys.executable)
